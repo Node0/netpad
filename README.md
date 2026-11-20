@@ -64,7 +64,7 @@ EventStore (LibSQL) → TimeMapCalculator → StateReconstructor
 WebSocket Server → Message Broadcasting → Client Updates
 ```
 
-### Frontend (DiamondJS 2.2.4)
+### Frontend (DiamondJS 2.3.0)
 ```
 TimeMap → DayScrubber → QuantumNavigator
    ↓           ↓              ↓
